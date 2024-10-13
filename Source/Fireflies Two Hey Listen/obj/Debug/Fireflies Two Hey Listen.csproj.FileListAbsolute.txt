@@ -1,0 +1,8 @@
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\Fireflies 2 - Hey Listen\Assemblies\Fireflies Two Hey Listen.dll
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\Fireflies 2 - Hey Listen\Source\Fireflies Two Hey Listen\obj\Debug\Fireflies Two Hey Listen.csproj.AssemblyReference.cache
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\Fireflies 2 - Hey Listen\Source\Fireflies Two Hey Listen\obj\Debug\Fireflies Two Hey Listen.csproj.CoreCompileInputs.cache
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\Fireflies 2 - Hey Listen\Source\Fireflies Two Hey Listen\obj\Debug\Fireflies Two Hey Listen.dll
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\Fireflies Two - Hey Listen\Assemblies\Fireflies Two Hey Listen.dll
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\Fireflies Two - Hey Listen\Source\Fireflies Two Hey Listen\obj\Debug\Fireflies Two Hey Listen.csproj.AssemblyReference.cache
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\Fireflies Two - Hey Listen\Source\Fireflies Two Hey Listen\obj\Debug\Fireflies Two Hey Listen.csproj.CoreCompileInputs.cache
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\Fireflies Two - Hey Listen\Source\Fireflies Two Hey Listen\obj\Debug\Fireflies Two Hey Listen.dll

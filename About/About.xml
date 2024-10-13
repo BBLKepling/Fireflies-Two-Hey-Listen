@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+  <name>Fireflies Two - Hey Listen</name>
+  <author>bblkepling</author>
+  <supportedVersions>
+    <li>1.5</li>
+  </supportedVersions>
+  <packageId>bblkepling.firefliestwo.heylisten</packageId>
+  <description>Firelies are no longer pawns in the new version, but when you chase them they can say "Hey Listen" and can also bite and/or ignite the pawn. Check the settings.</description>
+  <modDependencies>
+        <li>
+            <packageId>Scurvyez.FirefliesTwo</packageId>
+            <displayName>FirefliesTwo</displayName>
+            <steamWorkshopUrl>steam://url/CommunityFilePage/3347026598</steamWorkshopUrl>
+        </li>
+  </modDependencies>
+  <loadAfter>
+  </loadAfter>
+</ModMetaData>

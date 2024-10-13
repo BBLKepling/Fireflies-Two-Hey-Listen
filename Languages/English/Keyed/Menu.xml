@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+  <BBLK_HeyListenSettings>Fireflies 2 - Hey Listen</BBLK_HeyListenSettings>
+  
+  <BBLK_HeyListen_tickRate_Label>Sound Rate</BBLK_HeyListen_tickRate_Label>
+  <BBLK_HeyListen_tickRate_ToolTip>The chase firefly job rolls a random tick from 30 to 120, this mod will play a sound if it gets to the specified tick. So lower numbers will play more often, while higher numbers make it more rare.</BBLK_HeyListen_tickRate_ToolTip>
+
+  <BBLK_HeyListen_flyBite_Label>Firefly bite chance</BBLK_HeyListen_flyBite_Label>
+  <BBLK_HeyListen_flyBite_ToolTip>The chance fireflies will bite pawns when a sound plays.</BBLK_HeyListen_flyBite_ToolTip>
+
+  <BBLK_HeyListen_fireBite_Label>Firefly ignite chance</BBLK_HeyListen_fireBite_Label>
+  <BBLK_HeyListen_fireBite_ToolTip>The chance fireflies will ignite pawns when a sound plays.</BBLK_HeyListen_fireBite_ToolTip>
+
+</LanguageData>
